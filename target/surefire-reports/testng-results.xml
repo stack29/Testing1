@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-25T08:51:01 IST" name="Suite" finished-at="2022-02-25T08:51:39 IST" duration-ms="38944">
+    <groups>
+    </groups>
+    <test started-at="2022-02-25T08:51:01 IST" name="Web Demo" finished-at="2022-02-25T08:51:39 IST" duration-ms="38944">
+      <class name="com.HomePage.HomePageTest">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:com.HomePage.HomePageTest@7ea9e1e2]" started-at="2022-02-25T08:51:01 IST" name="intialize" finished-at="2022-02-25T08:51:34 IST" duration-ms="33185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="SignUpUser()[pri:0, instance:com.HomePage.HomePageTest@7ea9e1e2]" started-at="2022-02-25T08:51:34 IST" name="SignUpUser" finished-at="2022-02-25T08:51:39 IST" duration-ms="5289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpUser -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.HomePage.HomePageTest@7ea9e1e2]" started-at="2022-02-25T08:51:39 IST" name="terminate" finished-at="2022-02-25T08:51:39 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.HomePage.HomePageTest -->
+    </test> <!-- Web Demo -->
+  </suite> <!-- Suite -->
+</testng-results>

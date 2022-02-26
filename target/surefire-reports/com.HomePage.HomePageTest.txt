@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.HomePage.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.422 sec <<< FAILURE!
+SignUpUser(com.HomePage.HomePageTest)  Time elapsed: 0.028 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+	at com.AW.PageObject.HomePage.<init>(HomePage.java:17)
+	at com.HomePage.HomePageTest.SignUpUser(HomePageTest.java:23)
+
